@@ -1,7 +1,7 @@
 import React from "react";
-
+import './HelloApp.css'
 export const HelloApp = (props: any) => {
 
-    return <h1>Hello From Auto Published Lib</h1>;
+    return <div className="hello-text">Hello From Auto Published Lib</div>;
   
 };
