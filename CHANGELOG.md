@@ -1,3 +1,15 @@
+# [1.3.0-beta.1](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.2.1...v1.3.0-beta.1) (2023-04-22)
+
+
+### Bug Fixes
+
+* **ci-cd:** update font hello messagefor production ([beaab43](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/commit/beaab436abd1bb0dde3fcbd19b543a4bb1adedb0))
+
+
+### Features
+
+* **ci-cd:** add beta branch for development with different hello message ([1a63c45](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/commit/1a63c450d095b8f521b57a59eef288f9011edec9))
+
 ## [1.2.1](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.2.0...v1.2.1) (2023-04-22)
 
 
