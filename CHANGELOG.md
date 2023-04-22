@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.1.1...v1.2.0) (2023-04-22)
+
+
+### Features
+
+* **ci-cd:** update font styling for hello message ([ec51110](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/commit/ec5111091165badc506cb4779f1574c5d0e9a2cf))
+
 ## [1.1.1](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.1.0...v1.1.1) (2023-04-22)
 
 
