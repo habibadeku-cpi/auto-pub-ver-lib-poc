@@ -2,7 +2,6 @@
   "name": "@chargepoint/auto-pub-ver-lib-poc",
   "version": "0.0.0",
   "description": "",
-  "private":"false",
   "scripts": {
     "dev": "nodemon --watch lib -e ts,js,json --exec tsc",
     "build": "npm run clean && tsc",
