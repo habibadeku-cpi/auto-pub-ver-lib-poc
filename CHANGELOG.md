@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.0.0...v1.1.0) (2023-04-22)
+
+
+### Features
+
+* **ci-cd:** modified hello message ([71fa6aa](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/commit/71fa6aacfac3cedb4c6c69804fa95999aa5bc253))
+
 # 1.0.0 (2023-04-22)
 
 
