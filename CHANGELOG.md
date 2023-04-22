@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.1.0...v1.1.1) (2023-04-22)
+
+
+### Bug Fixes
+
+* **ci-cd:** removed private field ([1ded18f](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/commit/1ded18f0dc78e0ed5ae2ccc4ed824687df47a2b6))
+
 # [1.1.0](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.0.0...v1.1.0) (2023-04-22)
 
 
