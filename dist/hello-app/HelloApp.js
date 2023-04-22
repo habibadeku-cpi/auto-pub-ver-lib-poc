@@ -5,8 +5,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.HelloApp = void 0;
 const react_1 = __importDefault(require("react"));
-require("./HelloApp.css");
 const HelloApp = (props) => {
-    return react_1.default.createElement("div", { className: "hello-text" }, "Hello From Auto Published Lib");
+    return react_1.default.createElement("div", { style: { fontSize: '18px', fontWeight: 'bolder', color: 'cadetblue' } }, "Hello From Auto Published Lib");
 };
 exports.HelloApp = HelloApp;
