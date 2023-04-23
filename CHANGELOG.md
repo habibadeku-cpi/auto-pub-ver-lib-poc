@@ -1,3 +1,11 @@
+# [1.3.0-beta.4](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.3.0-beta.3...v1.3.0-beta.4) (2023-04-23)
+
+
+### Features
+
+* **ci-cd:** updated workflow to add pull request run ([4722608](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/commit/4722608bb1ef54fd481e9a7855c00cfcc7195df4))
+
+
 # [1.3.0-beta.3](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.3.0-beta.2...v1.3.0-beta.3) (2023-04-23)
 
 
