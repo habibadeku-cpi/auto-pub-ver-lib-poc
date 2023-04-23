@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.2.2...v2.0.0) (2023-04-23)
+
+
+### Features
+
+* **ci-cd:** test add breaking change feature ([fd268e9](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/commit/fd268e97d5898e55c26be467e7460dc7078ba037))
+
+
+### BREAKING CHANGES
+
+* **ci-cd:** commit with breaking change
+
 # [1.3.0-beta.4](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.3.0-beta.3...v1.3.0-beta.4) (2023-04-23)
 
 
