@@ -1,3 +1,10 @@
+# [1.3.0-beta.2](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.3.0-beta.1...v1.3.0-beta.2) (2023-04-23)
+
+
+### Bug Fixes
+
+* **test:** husky block wrong commit  message working ([b551a1d](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/commit/b551a1d3b32d624e1d45eeab95076c977ed5a793))
+
 # [1.3.0-beta.1](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.2.1...v1.3.0-beta.1) (2023-04-22)
 
 
