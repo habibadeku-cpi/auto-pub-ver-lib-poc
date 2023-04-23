@@ -1,9 +1,31 @@
+# [1.3.0-beta.3](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.3.0-beta.2...v1.3.0-beta.3) (2023-04-23)
+
+
+### Bug Fixes
+
+* **test:** prepare for merge feature to main ([fe0e35f](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/commit/fe0e35f2d90385970c2c19beedf5a2c690a9247b))
+
+# [1.3.0-beta.2](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.3.0-beta.1...v1.3.0-beta.2) (2023-04-23)
+
+
+### Bug Fixes
+
+* **test:** husky block wrong commit  message working ([b551a1d](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/commit/b551a1d3b32d624e1d45eeab95076c977ed5a793))
+
+# [1.3.0-beta.1](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.2.1...v1.3.0-beta.1) (2023-04-22)
+
 ## [1.2.2](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.2.1...v1.2.2) (2023-04-22)
 
 
 ### Bug Fixes
 
 * **ci-cd:** update font hello messagefor production ([beaab43](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/commit/beaab436abd1bb0dde3fcbd19b543a4bb1adedb0))
+
+
+### Features
+
+* **ci-cd:** add beta branch for development with different hello message ([1a63c45](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/commit/1a63c450d095b8f521b57a59eef288f9011edec9))
+
 
 ## [1.2.1](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.2.0...v1.2.1) (2023-04-22)
 
