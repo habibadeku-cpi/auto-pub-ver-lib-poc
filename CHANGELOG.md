@@ -1,3 +1,10 @@
+# [1.3.0-beta.5](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.3.0-beta.4...v1.3.0-beta.5) (2023-04-24)
+
+
+### Features
+
+* **new-feat:** test new feature in separate branch for merge into beta ([#4](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/issues/4)) ([b3ce59e](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/commit/b3ce59e2207f72355c380b36432b0344404eb69a))
+
 # [1.3.0-beta.4](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.3.0-beta.3...v1.3.0-beta.4) (2023-04-23)
 
 
