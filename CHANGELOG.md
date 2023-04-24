@@ -1,3 +1,10 @@
+## [3.2.1](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v3.2.0...v3.2.1) (2023-04-24)
+
+
+### Bug Fixes
+
+* **update:** just a fix to update to test ([71966f3](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/commit/71966f30579a95a35562312153a10d2aa8edf8db))
+
 # [3.2.0](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v3.1.0...v3.2.0) (2023-04-24)
 
 
