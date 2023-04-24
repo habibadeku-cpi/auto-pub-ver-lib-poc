@@ -1,6 +1,6 @@
 import React from "react";
 export const HelloApp = (props: any) => {
 
-    return <div style={{fontSize:'40px', textAlign: 'center', fontWeight: 'bolder', color: 'cadetblue'}}>Hello From Auto Published Lib - Some New Feature for Production</div>;
+    return <div style={{fontSize:'40px', textAlign: 'center', fontWeight: 'bolder', color: 'cadetblue'}}>Hello From Auto Published Lib - Update Message For Production Release</div>;
   
 };
