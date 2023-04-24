@@ -3,11 +3,17 @@ name: Release
 on:
   push:
     branches: [main, beta]
-  pull_request:
-    branches: [main, beta]
 
 jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    # Only release if main or beta branch
+    if: github.ref == ‘refs/heads/main || github.ref == ‘refs/heads/beta’
+    steps:
+      - run: echo "${{ github.event.head_commit.message }}"
+
   release:
+    needs: prepare
     name: Release
     runs-on: ubuntu-latest
 
