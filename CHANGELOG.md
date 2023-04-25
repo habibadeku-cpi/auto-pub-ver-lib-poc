@@ -1,3 +1,10 @@
+# [1.3.0-beta.9](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.3.0-beta.8...v1.3.0-beta.9) (2023-04-25)
+
+
+### Features
+
+* **update:** test beta release ([37395c7](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/commit/37395c7205143c8bf1d93113adb66f384f66c66e))
+
 # [1.3.0-beta.8](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.3.0-beta.7...v1.3.0-beta.8) (2023-04-24)
 
 
