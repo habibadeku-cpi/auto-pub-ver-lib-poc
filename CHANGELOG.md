@@ -1,4 +1,5 @@
 # [3.3.0](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v3.2.2...v3.3.0) (2023-04-25)
+# [1.3.0-beta.9](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.3.0-beta.8...v1.3.0-beta.9) (2023-04-25)
 
 
 ### Features
@@ -45,6 +46,8 @@
 
 
 * Release/workflow update (#9) ([3fef64b](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/commit/3fef64b86d7f2e305fc0704defffebc04363e06a)), closes [#9](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/issues/9) [#4](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/issues/4) [#4](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/issues/4) [#5](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/issues/5) [#6](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/issues/6) [#7](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/issues/7) [#8](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/issues/8) [#8](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/issues/8)
+* **update:** test beta release ([37395c7](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/commit/37395c7205143c8bf1d93113adb66f384f66c66e))
+
 # [1.3.0-beta.8](https://github.com/habibadeku-cpi/auto-pub-ver-lib-poc/compare/v1.3.0-beta.7...v1.3.0-beta.8) (2023-04-24)
 
 
